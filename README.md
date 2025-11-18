@@ -6,4 +6,6 @@ I am excited to share my projects and experiences on my github account and look 
 
 Let's build something amazing together! 🚀
 
+Building https://gpt-watermark-remover.com in public
+
 You can reach me via Twitter: @AleksDoesCode
